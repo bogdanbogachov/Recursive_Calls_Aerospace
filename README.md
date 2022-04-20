@@ -6,5 +6,3 @@ in the database to which I was connecting.
 
 The tool can be run only on my work computer, since it is impossible to access the subject database from outside the company.
 However, this fact should not be a roadblock to check the code and architecture of the tool.
-
-Test.
