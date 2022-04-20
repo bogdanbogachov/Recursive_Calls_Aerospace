@@ -88,5 +88,3 @@ def material_description(PN):
 
 def close():
     conn.close()
-
-# test
